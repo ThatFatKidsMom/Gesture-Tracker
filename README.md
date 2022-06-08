@@ -15,7 +15,7 @@ Prefab using [contact trackers](https://github.com/VRLabs/Contact-Tracker) with 
 
 ## **How to use**
 Place your hands into the hands of another player and enable the system.  
->Ensure that the other player is making a fist gesture during calibration for best results. They must not open their hand, loosen their grasp, or do a peace sign until the indicator on their hand dissapears. 
+>Ensure that the other player is making a fist gesture during calibration for best results. They must not open their hand, loosen their grasp, or do a peace sign until the indicator on their hand disappears. 
 
 ## **How it works**
 [Video](https://youtu.be/dhVPa6VImDc)  
