@@ -1,6 +1,6 @@
 # Gesture Tracker
 
-This is a package to demonstrate how to use [contact trackers](https://github.com/VRLabs/Contact-Tracker) and additional proxmity recievers to determine if a player is doing any of the default gestures and drive parameters based on that.
+Prefab using [contact trackers](https://github.com/VRLabs/Contact-Tracker) and additional proxmity recievers to determine if a player is doing any of the default gestures and drive parameters based on that.
 
 ## **Installation**
 - Drag the "Gesture Tracker" prefab into the heirarchy  
@@ -12,16 +12,17 @@ This is a package to demonstrate how to use [contact trackers](https://github.co
 - Create a toggle in your menu to enable the system   
 
 ## **How to use**
-Place your hands into the hands of another player and enable the system.
+Place your hands into the hands of another player and enable the system.  
+>Ensure that the other player is making a fist gesture during calibration for best results. They must not open their hand, loosen their grasp, or do a peace sign until the indicator on their hand dissapears. 
 
 
 ## **Download**
-
+[Latest release]()
 ## **Credit**
 [VRLabs](https://github.com/VRLabs)
 
-
 ## **License**
+[MIT](https://github.com/ThatFatKidsMom/Gesture-Tracker/blob/main/LICENSE)
 
 ## **Contact**
-If you nees help with something you can message me on discord at ThatFatKidsMom#6462
+If you need help with something you can message me on discord at ThatFatKidsMom#6462
