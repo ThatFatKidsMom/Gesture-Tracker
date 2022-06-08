@@ -19,7 +19,8 @@ Place your hands into the hands of another player and enable the system.
 
 ## **How it works**
 [Video](https://youtu.be/dhVPa6VImDc)  
--  Basically Proximity sensors measure distance between contacts and use that information to drive parameters.
+-  Proximity sensors measure distance between contacts and use that information to drive parameters.
+-  Those same sensors also scale themselves down prior to driving parameters to accommodate for hand variation between players until a certain value is reached
 
 ## **Download**
 [Latest release](https://github.com/ThatFatKidsMom/Gesture-Tracker/releases/tag/1.0.0)
