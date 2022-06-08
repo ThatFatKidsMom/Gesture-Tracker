@@ -20,7 +20,7 @@ Place your hands into the hands of another player and enable the system.
 ## **How it works**
 [Video](https://youtu.be/nHF9PCH_r78)
 -  Proximity sensors measure distance between contacts and use that information to drive parameters.
--  Those same sensors also scale themselves down and animate a float prior to driving parameters to accommodate for hand variation between players until a certain value is reached.The float being animated is used in the motion time field of every state after calibration in order to maintain the same scale when switching between states for WD on users.
+-  Those same sensors also scale themselves down and animate a float prior to driving parameters to accommodate for hand variation between players until a certain value is reached. The float being animated is used in the motion time field of every state after calibration in order to maintain the same scale when switching between states for WD on users.
 
 ## **Download**
 [Latest release](https://github.com/ThatFatKidsMom/Gesture-Tracker/releases/tag/1.0.0)
