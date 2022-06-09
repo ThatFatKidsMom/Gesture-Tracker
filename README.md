@@ -12,6 +12,7 @@ Prefab using [contact trackers](https://github.com/VRLabs/Contact-Tracker) with 
 - Merge the provided FX controller with yours using the [VRLabs Avatar 3.0 manager](https://github.com/VRLabs/Avatars-3.0-Manager)  
 - Set WD settings according to your animator  
 - Create a toggle in your menu to enable the system   
+>Ensure you are using the latest SDK and AV 3.0 Manager
 
 ## **How to use**
 Place your hands into the hands of another player and enable the system.  
