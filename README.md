@@ -19,7 +19,7 @@ Place your hands into the hands of another player and enable the system.
 >Ensure that the other player is making a fist gesture during calibration for best results. They must not open their hand, loosen their grasp, or do a peace sign until the indicator on their hand disappears. 
 
 ## **How it works**
-[Video](https://youtu.be/nHF9PCH_r78)
+[Video](https://youtu.be/ANdXGCluxoI)
 -  Proximity sensors measure distance between contacts and use that information to drive parameters.
 -  Those same sensors also scale themselves down and animate a float prior to driving parameters to accommodate for hand variation between players until a certain value is reached. The float being animated is used in the motion time field of every state after calibration in order to maintain the same scale when switching between states for WD on users.
 
