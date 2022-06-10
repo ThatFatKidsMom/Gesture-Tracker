@@ -5,7 +5,7 @@ Derivative work of [contact trackers](https://github.com/VRLabs/Contact-Tracker)
 ## **Installation**
 [Video](https://youtu.be/cCnQug_tGXs)
 
-- Drag the "Gesture Tracker" prefab into the heirarchy  
+- Drag the "Gesture Tracker" prefab into the base of your heirarchy  
 - Right click on the prefab to unpack it and then drag it onto the base of your avatar  
 - Select all objects that start with "Left" and drag in your right wrist bone into the empty source on the parent constraint  
 - Select all objects that start with "Right" and drag in your left wrist bone into the empty source on the parent constraint  
