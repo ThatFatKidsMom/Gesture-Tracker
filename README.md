@@ -5,6 +5,8 @@
 
 Derivative work of [contact trackers](https://github.com/VRLabs/Contact-Tracker) with some additional proximity sensors to determine if a player is doing any of the default gestures and drive parameters. You must create logic that utilizes those parameters. Not recommend to use unless you understand how [contact trackers](https://github.com/VRLabs/Contact-Tracker) work.
 
+[Example product](https://youtu.be/fFdxHTz8sKc)
+
 ## **Installation**
 [Video](https://youtu.be/cCnQug_tGXs)
 
